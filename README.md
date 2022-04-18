@@ -1,51 +1,16 @@
 
 # The CGC Book Project
- [![Website](https://img.shields.io/website?down_color=red&down_message=down&up_message=live&url=http%3A%2F%2Fbookcgc.epizy.com%2F)](https://bookcgc.epizy.com/)
+
  
  
 - This is a dynamic E-Commerce website made my me along with my 
-partner of the project Tejbir Singh.
-- This Project is for univerity curriculam of 7th semester in the Bachelor of 
-Technology in Computer Science in Engineering.
+partner of the project Gurvijay Singh.
 - Admin id is static with only single username & password.
-- Website has no security
+- Website has SSL security (expire after 1 month)
 - Most part of website is fully responsive means it changes size on device change but at some places I need no improve.
 
 
-
-
-
-
-## Project was made in mid 2021
-
- [![GitHub top language](https://img.shields.io/github/languages/top/gillgurvijay01/cgc-book-project)]()
- [![Reposize](https://img.shields.io/github/repo-size/gillgurvijay01/cgc-book-project?label=Size%20of%20Project)]()
- [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GILLGURVIJAY01/CGC-BOOK-PROJECT)]()
- [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gillgurvijay01/CGC-Book-Project)]()
- [![LastCommit](https://img.shields.io/github/last-commit/gillgurvijay01/cgc-book-project)]()
- [![Issues](https://img.shields.io/github/issues/gillgurvijay01/CGC-Book-Project)]()
- [![Stars](https://img.shields.io/github/stars/gillgurvijay01/CGC-Book-Project)]()
- [![License](https://img.shields.io/github/license/gillgurvijay01/CGC-Book-Project)]()
- [![Lines of code](https://img.shields.io/tokei/lines/github/gillgurvijay01/cgc-book-project)]()
- [![GitHub pull requests](https://img.shields.io/github/issues-pr/gillgurvijay01/cgc-book-project)]()
- [![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=gillgurvijay01.cgc-book-project)]()
- [![Forks](https://img.shields.io/github/forks/gillgurvijay01/cgc-book-project?style=social)]()
- 
- 
-## Authors
-
-- [Gurvijay Singh Gill](https://www.github.com/gillgurvijay01)  [![Github](https://img.shields.io/github/followers/gillgurvijay01?style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fgillgurvijay01)
-  
-  [![TWitter](https://img.shields.io/twitter/follow/gillgurvijay01?style=social)](https://twitter.com/gillgurvijay01)
-
-- [Tejbir Singh](https://www.github.com/tejbirsingh7878)  [![Github](https://img.shields.io/github/followers/tejbirsingh7878?style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ftejbirsingh7878)
-
-
-  [![TWitter](https://img.shields.io/twitter/follow/TejbirSingh7878?style=social)](https://twitter.com/tejbirsingh7878)
- 
-
-
-#### The Tables in the database 
+### The Tables in the database 
 
 
 | Tables                    |
